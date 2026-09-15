@@ -1,0 +1,8 @@
+.env
+downloads/
+__pycache__/
+*.pyc
+counter.json
+langs.json
+cookies.txt
+stats.json
