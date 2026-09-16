@@ -19,8 +19,8 @@ logger = logging.getLogger(__name__)
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
+ADMIN_ID = 8490807566
 MIN_AD_TIME = 5
-ADMIN_ID = 0  # حط الآيدي بتاعك هنا (اختياري)
 AD_EVERY = 3
 
 COUNTER_FILE = "counter.json"
